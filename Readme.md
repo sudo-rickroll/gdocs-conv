@@ -31,7 +31,7 @@ google-api-python-client
 
 2. **Upload the Notebook**:
    - Click "File" → "Upload notebook"
-   - Select the `markdown_to_gdocs.ipynb` file
+   - Select the `gdocs_conv.ipynb` file
 
 3. **Run the Script**:
    - Click "Runtime" → "Run all" (or press `Ctrl+F9`)
